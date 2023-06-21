@@ -6,3 +6,4 @@ streamlit==1.23.1
 streamlit_option_menu==0.3.6
 sumy==0.11.0
 textblob==0.17.1
+en-core-web-sm==3.5.0
